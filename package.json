@@ -1,5 +1,5 @@
 {
-    "name" : "code-jam",
+    "name" : "code_jam",
     "version" : "0.0.1",
     "description" : "Code Jam helper",
     "main" : "./lib/codejam.js",
