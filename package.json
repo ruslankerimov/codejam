@@ -1,0 +1,23 @@
+{
+    "name" : "code-jam",
+    "version" : "0.0.1",
+    "description" : "Code Jam helper",
+    "main" : "./lib/codejam.js",
+    "directories" : {
+        "example" : "example"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/ruslankerimov/codejam.git"
+    },
+    "keywords" : [
+        "codejam"
+    ],
+    "author" : {
+        "name" : "Ruslan Kerimov",
+        "email" : "rus.kerimov@gmail.com"
+    },
+    "license" : "MIT",
+    "readmeFilename" : "README.md",
+    "gitHead" : "fbe94d823d857b03c0085338f63641f63be1c7de"
+}
